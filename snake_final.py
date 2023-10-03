@@ -624,19 +624,19 @@ meteor_1 = pygame.image.load("game_objects/meteor_image_1.png")
 
 meteor_2 = pygame.image.load("game_objects/meteor_image_2.png")
 
-meteor_3 = pygame.image.load("game_objects/meteor_image_3.png")
+meteor_3 = pygame.image.load("game_objects/meteor_image_1.png")
 
-meteor_4 = pygame.image.load("game_objects/meteor_image_4.png")
+meteor_4 = pygame.image.load("game_objects/meteor_image_2.png")
 
-meteor_5 = pygame.image.load("game_objects/meteor_image_5.png")
+meteor_5 = pygame.image.load("game_objects/meteor_image_1.png")
 
-meteor_6 = pygame.image.load("game_objects/meteor_image_6.png")
+meteor_6 = pygame.image.load("game_objects/meteor_image_2.png")
 
-meteor_7 = pygame.image.load("game_objects/meteor_image_7.png")
+meteor_7 = pygame.image.load("game_objects/meteor_image_2.png")
 
 meteor_8 = pygame.image.load("game_objects/meteor_image_1.png")
 
-meteor_9 = pygame.image.load("game_objects/meteor_image_1.png")
+meteor_9 = pygame.image.load("game_objects/meteor_image_2.png")
 
 meteor_10 = pygame.image.load("game_objects/meteor_image_1.png")
 
