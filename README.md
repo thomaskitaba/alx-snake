@@ -191,5 +191,3 @@ Just as a reminder the portifolio project had presention with the following cont
 5. Discussion of process, collaboration and timeline (2pt)
 6. Challenge(s) overcome (5pt)
 7. Learnings about technical interests as a result of this project (1 pt)
-
-icl
